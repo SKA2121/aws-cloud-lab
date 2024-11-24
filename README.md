@@ -13,5 +13,5 @@ The AWS Cloud Lab serves as:
 3. A stepping stone toward achieving my goal of becoming a Cloud Architect, with hands-on experience solving real-world cloud challenges.
 
 # Projects Included
-**1.  Blog Platform with Content Moderation **
+**1.  Blog Platform with Content Moderation**
 - A serverless blog platform that integrates AWS Comprehend and Rekognition for text and image moderation.
