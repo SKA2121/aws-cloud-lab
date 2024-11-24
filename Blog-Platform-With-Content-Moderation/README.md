@@ -6,6 +6,6 @@ This project demonstrates a serverless blog platform with integrated content mod
 1. **User Authentication**: Secure login and registration using **AWS Cognito**.
 2. **Blog Management**: CRUD operations for blog posts and metadata.
 3. **File Uploads**: Media uploads (images/videos) using pre-signed URLs for **S3**.
-4. **Content Moderation**: Automatic moderation of text and images using AWS Comprehend and Rekognition.
+4. **Content Moderation**: Automatic moderation of text and images using **AWS Comprehend and Rekognition**.
 5. **Notifications**: Email notifications for flagged content using **AWS SNS**.
 6. **Serverless Architecture**: Highly scalable and cost-effective solution built on **AWS Lambda, API Gateway, DynamoDB, and S3**.
