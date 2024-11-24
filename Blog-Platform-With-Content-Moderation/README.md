@@ -1,0 +1,3 @@
+# Blog Platform with Content Moderation
+## Overview
+This project demonstrates a serverless blog platform with integrated content moderation capabilities, leveraging AWS services. It enables users to create, manage, and moderate blog content, ensuring safe and compliant user-generated content. The platform uses AWS services for authentication, file storage, text and image moderation, and notifications.
