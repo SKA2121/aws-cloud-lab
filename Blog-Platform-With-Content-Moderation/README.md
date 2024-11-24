@@ -26,6 +26,6 @@ This project demonstrates a serverless blog platform with integrated content mod
 9. Amazon CloudWatch: Monitors API and Lambda function logs.
 
 ![image](https://github.com/user-attachments/assets/d3a8eaef-326e-4fb0-a159-8177eb31ebde)
-![image](https://github.com/user-attachments/assets/635e18f2-9089-4c63-9c41-9284cc93da46)
+
 
 
