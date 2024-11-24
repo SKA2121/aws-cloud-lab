@@ -3,7 +3,6 @@
 This project demonstrates a serverless blog platform with integrated content moderation capabilities, leveraging AWS services. It enables users to create, manage, and moderate blog content, ensuring safe and compliant user-generated content. The platform uses AWS services for authentication, file storage, text and image moderation, and notifications.
 
 ## Key Features:
-<<<<<<< HEAD
 1. User Authentication: Secure login and registration using AWS Cognito.
 2. Blog Management: CRUD operations for blog posts and metadata.
 3. File Uploads: Media uploads (images/videos) using pre-signed URLs for S3.
@@ -14,22 +13,14 @@ This project demonstrates a serverless blog platform with integrated content mod
 
 ## Architecture
 
-**AWS Services Used**:
+**AWS Services Used**
 
-**Amazon S3**: Stores static frontend files and uploaded media (images/videos).
-**Amazon Cognito**: Manages user authentication and access.
-**Amazon API Gateway**: Routes API requests to backend services.
-**AWS Lambda**: Serverless functions for blog management, file handling, content moderation, and notifications.
-**Amazon DynamoDB**: Stores blog metadata, including titles, authors, and moderation status.
-**AWS Comprehend**: Analyzes blog text for inappropriate content.
-**Amazon Rekognition**: Scans uploaded images for explicit or unsafe material.
-**Amazon SNS**: Sends notifications about flagged content.
-**Amazon CloudWatch**: Monitors API and Lambda function logs.
-=======
-1. **User Authentication**: Secure login and registration using **AWS Cognito**.
-2. **Blog Management**: CRUD operations for blog posts and metadata.
-3. **File Uploads**: Media uploads (images/videos) using pre-signed URLs for **S3**.
-4. **Content Moderation**: Automatic moderation of text and images using **AWS Comprehend and Rekognition**.
-5. **Notifications**: Email notifications for flagged content using **AWS SNS**.
-6. **Serverless Architecture**: Highly scalable and cost-effective solution built on **AWS Lambda, API Gateway, DynamoDB, and S3**.
->>>>>>> b5f224698c98b46d35f717ba585156e9e7b217b7
+1. Amazon S3: Stores static frontend files and uploaded media (images/videos).
+2. Amazon Cognito: Manages user authentication and access.
+3. Amazon API Gateway: Routes API requests to backend services.
+4. AWS Lambda: Serverless functions for blog management, file handling, content moderation, and notifications.
+5. Amazon DynamoDB: Stores blog metadata, including titles, authors, and moderation status.
+6. AWS Comprehend: Analyzes blog text for inappropriate content.
+7. Amazon Rekognition**: Scans uploaded images for explicit or unsafe material.
+8. Amazon SNS: Sends notifications about flagged content.
+9. Amazon CloudWatch: Monitors API and Lambda function logs.
