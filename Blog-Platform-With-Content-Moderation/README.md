@@ -24,3 +24,5 @@ This project demonstrates a serverless blog platform with integrated content mod
 7. Amazon Rekognition**: Scans uploaded images for explicit or unsafe material.
 8. Amazon SNS: Sends notifications about flagged content.
 9. Amazon CloudWatch: Monitors API and Lambda function logs.
+
+![Image](https://github.com/user-attachments/assets/2c7a3fc0-a71e-4a3c-8453-f33a2d14dde9)
