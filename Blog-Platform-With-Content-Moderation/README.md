@@ -21,7 +21,7 @@ This project demonstrates a serverless blog platform with integrated content mod
 4. AWS Lambda: Serverless functions for blog management, file handling, content moderation, and notifications.
 5. Amazon DynamoDB: Stores blog metadata, including titles, authors, and moderation status.
 6. AWS Comprehend: Analyzes blog text for inappropriate content.
-7. Amazon Rekognition**: Scans uploaded images for explicit or unsafe material.
+7. Amazon Rekognition: Scans uploaded images for explicit or unsafe material.
 8. Amazon SNS: Sends notifications about flagged content.
 9. Amazon CloudWatch: Monitors API and Lambda function logs.
 
