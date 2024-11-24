@@ -25,4 +25,4 @@ This project demonstrates a serverless blog platform with integrated content mod
 8. Amazon SNS: Sends notifications about flagged content.
 9. Amazon CloudWatch: Monitors API and Lambda function logs.
 
-![Image](https://github.com/user-attachments/assets/2c7a3fc0-a71e-4a3c-8453-f33a2d14dde9)
+{"type":"excalidraw/clipboard","elements":[{"type":"rectangle","version":1390,"versionNonce":669226513,"isDeleted":false,"id":"JFv1ul6SgEJ81M09uc2Ns","fillStyle":"hachure","strokeWidth":4,"strokeStyle":"solid","roughness":1,"opacity":40,"angle":0,"x":1352.3225799336822,"y":-57.60737761913617,"strokeColor":"#f08c00","backgroundColor":"#b2f2bb","width":1654.334648108101,"height":1250.1626174881117,"seed":504837087,"groupIds":[],"strokeSharpness":"sharp","boundElements":[],"updated":1732482241095,"link":null,"locked":false,"index":"b6V","frameId":null,"roundness":null}],"files":{}}
