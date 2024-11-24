@@ -2,7 +2,7 @@
 Welcome to AWS Cloud Lab, a collection of practical projects showcasing my journey into cloud computing and architecture using Amazon Web Services (AWS). This repository demonstrates my skills as a DevOps and Infrastructure Engineer and my commitment to transitioning into a Cloud Architect role. It reflects my passion for designing scalable, secure, and innovative solutions while continuously learning and exploring modern cloud technologies.
 
 # About Me
-I’m Sob Kamdem Alex, a dedicated DevOps and Infrastructure Engineer with a strong background in managing and automating systems to enable efficient workflows. My goal is to leverage these skills and grow into a Cloud Architect, specializing in designing robust and scalable cloud solutions that drive innovation and solve real-world challenges.
+I’m **Sob Kamdem Alex**, a dedicated DevOps and Infrastructure Engineer with a strong background in managing and automating systems to enable efficient workflows. My goal is to leverage these skills and grow into a Cloud Architect, specializing in designing robust and scalable cloud solutions that drive innovation and solve real-world challenges.
 
 You can connect with me on LinkedIn to learn more about my professional journey and aspirations.
 
