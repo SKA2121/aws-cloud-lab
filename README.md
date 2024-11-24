@@ -21,3 +21,9 @@ Through this repository, I aim to refine my skills and establish a strong founda
 - Design scalable and secure cloud infrastructures.
 - Implement cost-efficient, innovative solutions aligned with business needs.
 - Drive cloud adoption and modernization for organizations.
+
+# Let’s Connect
+If you’re interested in exploring these projects or discussing opportunities in cloud computing, feel free to connect:
+**Linkledin: SOB KAMDEM Alex**
+
+This repository is a work in progress, and I look forward to collaborating with others passionate about cloud technologies!
