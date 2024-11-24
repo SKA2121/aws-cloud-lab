@@ -9,3 +9,18 @@ This project demonstrates a serverless blog platform with integrated content mod
 4. Content Moderation: Automatic moderation of text and images using AWS Comprehend and Rekognition.
 5. Notifications: Email notifications for flagged content using AWS SNS.
 6. Serverless Architecture: Highly scalable and cost-effective solution built on AWS Lambda, API Gateway, DynamoDB, and S3.
+
+
+## Architecture
+
+**AWS Services Used**:
+
+**Amazon S3**: Stores static frontend files and uploaded media (images/videos).
+**Amazon Cognito**: Manages user authentication and access.
+**Amazon API Gateway**: Routes API requests to backend services.
+**AWS Lambda**: Serverless functions for blog management, file handling, content moderation, and notifications.
+**Amazon DynamoDB**: Stores blog metadata, including titles, authors, and moderation status.
+**AWS Comprehend**: Analyzes blog text for inappropriate content.
+**Amazon Rekognition**: Scans uploaded images for explicit or unsafe material.
+**Amazon SNS**: Sends notifications about flagged content.
+**Amazon CloudWatch**: Monitors API and Lambda function logs.
