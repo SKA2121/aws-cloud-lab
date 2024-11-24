@@ -15,3 +15,9 @@ The AWS Cloud Lab serves as:
 # Projects Included
 **1.  Blog Platform with Content Moderation**
 - A serverless blog platform that integrates AWS Comprehend and Rekognition for text and image moderation.
+
+# My Goal as a Cloud Architect
+Through this repository, I aim to refine my skills and establish a strong foundation in cloud architecture. My vision as a Cloud Architect is to:
+- Design scalable and secure cloud infrastructures.
+- Implement cost-efficient, innovative solutions aligned with business needs.
+- Drive cloud adoption and modernization for organizations.
